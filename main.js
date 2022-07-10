@@ -1,8 +1,7 @@
-video = "";
 Status = "";
 
 function preload() {
-    
+
 }
 
 function setup() {
